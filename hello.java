@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class hello{
     public static void main(String[] args) {
         Scanner DT = new Scanner(System.in);
+        int n = DT.nextInt();
       //  int b = DT.nextInt();
        // int a = DT.nextInt();
 
@@ -17,9 +18,7 @@ public class hello{
     //    ValueOfNum(n);
     //    System.out.println("Is Prime: "+IsPrime(n));
         // System.out.println(IsPalindromeString(n));
-       int n = DT.nextInt();
-
-       System.out.println(IsArmstrong(n));
+       //    System.out.println(IsArmstrong(n));
 
        
 

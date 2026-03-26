@@ -18,7 +18,7 @@ public class hello{
     //    ValueOfNum(n);
     //    System.out.println("Is Prime: "+IsPrime(n));
         // System.out.println(IsPalindromeString(n));
-       //    System.out.println(IsArmstrong(n));
+           System.out.println(IsArmstrong(n));
 
        
 
